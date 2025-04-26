@@ -1,0 +1,32 @@
+{
+  "alpha_pattern": {},
+  "auto_mapping": {
+    "base_model_class": "Qwen2ForCausalLM",
+    "parent_library": "transformers.models.qwen2.modeling_qwen2"
+  },
+  "base_model_name_or_path": "/public/home/ljt/hf_models/models--deepseek-ai--DeepSeek-R1-Distill-Qwen-32B/snapshots/711ad2ea6aa40cfca18895e8aca02ab92df1a746",
+  "bias": "none",
+  "fan_in_fan_out": false,
+  "inference_mode": true,
+  "init_lora_weights": true,
+  "layer_replication": null,
+  "layers_pattern": null,
+  "layers_to_transform": null,
+  "loftq_config": {},
+  "lora_alpha": 32,
+  "lora_dropout": 0.1,
+  "megatron_config": null,
+  "megatron_core": "megatron.core",
+  "modules_to_save": null,
+  "peft_type": "LORA",
+  "r": 8,
+  "rank_pattern": {},
+  "revision": null,
+  "target_modules": [
+    "v_proj",
+    "q_proj"
+  ],
+  "task_type": null,
+  "use_dora": false,
+  "use_rslora": false
+}

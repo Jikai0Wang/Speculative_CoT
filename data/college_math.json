@@ -1,0 +1,500 @@
+{"question": "Simplify: $-10-4(n-5)$", "answer": "$10-4 n$"}
+{"question": "Solve the following systems of equation: \n$x y=90$ \n$(x-5)(y+1)=120$", "answer": "$(45,2),(-10,-9)$"}
+{"question": "Evaluate the expression: $\\frac{8 i}{6-7 i}$", "answer": "$\\frac{48 i-56}{85}$"}
+{"question": "Find three consecutive integers such that their sum is 108.", "answer": "$35,36,37$"}
+{"question": "Find a quadratic equation with the solutions $2 \\pm \\sqrt{6}$.", "answer": "$x^{2}-4 x-2=0$"}
+{"question": "Specify the domain of the function: $f(x)=x^{2}-3 x-4$", "answer": "all real numbers"}
+{"question": "Find the square: $(p+7)^{2}$", "answer": "$p^{2}+14 p+49$"}
+{"question": "Simplify: $\\frac{k^{2}-12 k+32}{k^{2}-64}$", "answer": "$\\frac{k-8}{k+4}$"}
+{"question": "Distribute: $-9 x(4-x)$", "answer": "$-36 x+9 x^{2}$"}
+{"question": "Write the number in scientific notation: 1.09", "answer": "$1.09 \\times 10^{0}$"}
+{"question": "Solve the proportion: $\\frac{3}{10}=\\frac{a}{a+2}$", "answer": "$a=\\frac{6}{7}$"}
+{"question": "Solve the compound inequality and give interval notation: $2 x+9 \\geqslant 10 x+1$ and $3 x-2<7 x+2$", "answer": "$-1<x \\leqslant 1:(-1,1]$"}
+{"question": "Simplify: $\\frac{\\sqrt{2 p^{2}}}{\\sqrt{3 p}}$", "answer": "$\\frac{\\sqrt{6 p}}{3}$"}
+{"question": "Evaluate $\\left(7+4 m+8 m^{4}\\right)-\\left(5 m^{4}+1+6 m\\right)$.", "answer": "$3 m^{4}-2 m+6$"}
+{"question": "A merchant bought some pieces of silk for $\\$ 900$. Had he bought 3 pieces more for the same money, he would have paid $\\$ 15$ less for each piece. Find the number of pieces purchased.", "answer": "12"}
+{"question": "Solve the equation: $9^{2 n+3}=243$", "answer": "$-\\frac{1}{4}$"}
+{"question": "Find the slope of a line perpendicular to the given line: $y=-\\frac{1}{3} x$", "answer": "3"}
+{"question": "Evaluate the expression: $(-8)-(-5)$", "answer": "-3"}
+{"question": "Solve the equation: $\\frac{3}{2}\\left(\\frac{7}{3} n+1\\right)=\\frac{3}{2}$", "answer": "0"}
+{"question": "Evaluate the expression: $7-3$", "answer": "4"}
+{"question": "Solve: $4 x^{3}-2=106$", "answer": "3"}
+{"question": "Solve the equation: $13 a=-143$", "answer": "-11"}
+{"question": "Evaluate the expression: $\\left(-\\frac{15}{8}\\right)+\\frac{5}{3}$", "answer": "$-\\frac{5}{24}$"}
+{"question": "Simplify the expression: $\\frac{n-7}{n^{2}-2 n-35} \\div \\frac{9 n+54}{10 n+50}$", "answer": "$\\frac{10}{9(n+6)}$"}
+{"question": "An electrician cuts a $30$ ft piece of wire into two pieces. One piece is $2$ ft longer than the other. Find the lengths of the two pieces.", "answer": "14,16"}
+{"question": "Build up each fraction by finding the Least Common Denominator: $\\frac{4 x}{x^{2}-x-6}, \\frac{x+2}{x-3}$", "answer": "$\\frac{4 x}{(x-3)(x+2)}, \\frac{x^{2}+4 x+4}{(x-3)(x+2)}$"}
+{"question": "Evaluate using the given values: $k \\times 3^{2}-(j+k)-5$; $j=4, k=5$", "answer": "36"}
+{"question": "Simplify: $-8 \\sqrt{180 x^{4} y^{2} z^{4}}$", "answer": "$-48 x^{2} z^{2} y \\sqrt{5}$"}
+{"question": "Solve the following systems of equation: \n$x+2 y-3 z=9$\n$2 x-y+2 z=-8$\n$3 x-y-4 z=3$", "answer": "$(-1,2,-2)$"}
+{"question": "Find the product: $(1+3 p)(1-3 p)$", "answer": "$1-9 p^{2}$"}
+{"question": "Multiply and simplify: $(2+2 \\sqrt{2})(-3+\\sqrt{2})$", "answer": "$-2-4 \\sqrt{2}$"}
+{"question": "Solve the equation $\\frac{f}{g} x=b$ for $\\mathrm{x}$.", "answer": "$x=\\frac{\\mathrm{gb}}{f}$"}
+{"question": "Simplify and write the answer in scientific notation: $\\frac{7.2 \\times 10^{-1}}{7.32 \\times 10^{-1}}$", "answer": "$9.836 \\times 10^{-1}$"}
+{"question": "Divide: $\\frac{10 x^{2}-32 x+9}{10 x-2}$", "answer": "$x-3+\\frac{3}{10 x-2}$"}
+{"question": "Solve the absolute value equation: $|9 p+6|=3$", "answer": "$-\\frac{1}{3},-1$"}
+{"question": "Add or subtract the rational expressions and simplify: $\\frac{4 x}{x^{2}-2 x-3}-\\frac{3}{x^{2}-5 x+6}$", "answer": "$\\frac{4 x+1}{(x+1)(x-2)}$"}
+{"question": "Find the principal that will amount to $\\$ 2500$ if invested at $5 \\%$ interest compounded semiannually for 7.5 years.", "answer": "1726.16"}
+{"question": "Solve the compound inequality and give interval notation: $1 \\leqslant \\frac{p}{8} \\leqslant 0$", "answer": "No solution : $\\oslash$"}
+{"question": "Simplify and express with positive exponents: $\\frac{3 y^{-\\frac{5}{4}}}{y^{-1} \\cdot 2 y^{-\\frac{1}{3}}}$", "answer": "$\\frac{3 y^{\\frac{1}{12}}}{2}$"}
+{"question": "Solve the proportion: $\\frac{2}{p+4}=\\frac{p+5}{3}$", "answer": "$p=-7,-2$"}
+{"question": "Solve the equation for $x$: $\\frac{3}{x+2}+\\frac{x-1}{x+5}=\\frac{5 x+20}{6 x+24}$", "answer": "4,7"}
+{"question": "Combine Like Terms: $-7 x-2 x$", "answer": "$-9 x$"}
+{"question": "State if the given functions are inverses:\n$f(x)=\\frac{x-5}{10}$\n$h(x)=10 x+5$", "answer": "Yes"}
+{"question": "Solve the equation $\\mathrm{q}=6(L-p)$ for $\\mathrm{L}$.", "answer": "$L=\\frac{q+6 p}{6}$"}
+{"question": "Divide: $\\frac{5 p^{4}+16 p^{3}+16 p^{2}}{4 p}$", "answer": "$\\frac{5 p^{3}}{4}+4 p^{2}+4 p$"}
+{"question": "Find the product: $(8 b+3)(7 b-5)$", "answer": "$56 b^{2}-19 b-15$"}
+{"question": "Solve the following systems of equation: \n$2 x+y=z$\n$4 x+z=4 y$\n$y=x+1$", "answer": "$(1,2,4)$"}
+{"question": "Solve the equation: $4+\\frac{a}{3}=1$", "answer": "-9"}
+{"question": "Solve: $n^{2}=-21+10 n$", "answer": "7,3"}
+{"question": "Solve the equation: $\\log _{7}-3 n=4$", "answer": "$-\\frac{2401}{3}$"}
+{"question": "Solve the following equation: $x^{8}-17 x^{4}+16=0$", "answer": "$\\pm 1, \\pm i, \\pm 2, \\pm 2 i$"}
+{"question": "The rate of a stream is 3 miles an hour. If a crew rows downstream for a distance of 8 miles and then back again, the round trip occupying 5 hours, what is the rate of the crew in still water?", "answer": "$\\mathrm{r}=5$"}
+{"question": "Simplify. Your answer should contain only positive expontents: $\\frac{u^{2}}{4 u^{0} v^{3} \\cdot 3 v^{2}}$", "answer": "$\\frac{u^{2}}{12 v^{5}}$"}
+{"question": "Simplify: $\\frac{2 x^{4} y^{5} \\cdot 2 z^{10} x^{2} y^{7}}{\\left(x y^{2} z^{2}\\right)^{4}}$", "answer": "$4 x^{2} y^{4} z^{2}$"}
+{"question": "Solve the equation: $625^{2 x}=25$", "answer": "$\\frac{1}{4}$"}
+{"question": "Simplify the expression: $\\frac{2 r}{r+6} \\div \\frac{2 r}{7 r+42}$", "answer": "7"}
+{"question": "State if the given functions are inverses:\n$f(x)=\\frac{-x-1}{x-2}$\n$g(x)=\\frac{-2 x+1}{-x-1}$", "answer": "Yes"}
+{"question": "Solve the proportion: $\\frac{5}{n+1}=\\frac{n-4}{10}$", "answer": "$n=-6,9$"}
+{"question": "Solve the absolute value equation: $3-|6 n+7|=-40$", "answer": "$6,-\\frac{25}{3}$"}
+{"question": "Add or subtract the rational expressions and simplify: $\\frac{2 a-1}{3 a^{2}}+\\frac{5 a+1}{9 a}$", "answer": "$\\frac{5 a^{2}+7 a-3}{9 a^{2}}$"}
+{"question": "The sum of the ages of a china plate and a glass plate is 16 years. Four years ago the china plate was three times the age of the glass plate. Find the present age of each plate.", "answer": "10,6"}
+{"question": "Find the slope of the line through the points $(13,-2)$ and $(7,7)$.", "answer": "$-\\frac{3}{2}$"}
+{"question": "Solve the equation for $x$: $\\frac{4-x}{1-x}=\\frac{12}{3-x}$", "answer": "$-5,0$"}
+{"question": "Simplify: $5(1-6 k)+10(k-8)$", "answer": "$-75-20 k$"}
+{"question": "Simplify: $\\left(3^{2}\\right)^{3}$", "answer": "$3^{6}$"}
+{"question": "Evaluate the expression: $\\sqrt{-12} \\sqrt{-2}$", "answer": "$-2 \\sqrt{6}$"}
+{"question": "Solve the equation: $-\\frac{149}{16}-\\frac{11}{3} r=-\\frac{7}{4} r-\\frac{5}{4}\\left(-\\frac{4}{3} r+1\\right)$", "answer": "$-\\frac{9}{4}$"}
+{"question": "Reduce the following radical: $\\sqrt[8]{16 x^{4} y^{6}}$", "answer": "$\\sqrt[4]{4 x^{2} y^{3}}$"}
+{"question": "Solve the equation for $x$: $x+\\frac{20}{x-4}=\\frac{5 x}{x-4}-2$", "answer": "3"}
+{"question": "A page is to have a margin of 1 inch and is to contain $35 \\mathrm{in}^{2}$ of painting. How large must the page be if the length is to exceed the width by 2 inches?", "answer": "$7 \\times 9$"}
+{"question": "Solve the equation: $5^{-3 n-3} \\cdot 5^{2 n}=1$", "answer": "-3"}
+{"question": "Find a quadratic equation with the solutions $1 \\pm 3 i$.", "answer": "$x^{2}-2 x+10=0$"}
+{"question": "State the excluded values for $\\frac{10 m^{2}+8 m}{10 m}$", "answer": "0"}
+{"question": "Combine Like Terms: $x-10-6 x+1$", "answer": "$-5 x-9$"}
+{"question": "Solve the equation: $\\frac{5}{9}=\\frac{b}{9}$", "answer": "5"}
+{"question": "Evaluate using the given values: $5 j+\\frac{k h}{2}$; $h=5, j=4, k=2$", "answer": "25"}
+{"question": "Simplify: $\\frac{5}{2 \\sqrt{3}-\\sqrt{2}}$", "answer": "$\\frac{2 \\sqrt{3}+\\sqrt{2}}{2}$"}
+{"question": "Find the Least Common Denominator: $5 x^{2} y, 25 x^{3} y^{5} z$", "answer": "$25 x^{3} y^{5} z$"}
+{"question": "Solve: $0=-8(p-5)$", "answer": "5"}
+{"question": "Solve the absolute value equation: $-7+8|-7 x-3|=73$", "answer": "$-\\frac{13}{7}, 1$"}
+{"question": "Find the inverse of the function: $f(x)=\\frac{5 x-5}{4}$", "answer": "$f^{-1}(x)=\\frac{5+4 x}{5}$"}
+{"question": "Divide: $\\frac{3 n^{3}+9 n^{2}-64 n-68}{n+6}$", "answer": "$3 n^{2}-9 n-10-\\frac{8}{n+6}$"}
+{"question": "Add or subtract the rational expressions and simplify: $\\frac{2 x+7}{x^{2}-2 x-3}-\\frac{3 x-2}{x^{2}+6 x+5}$", "answer": "$\\frac{-(x-29)}{(x-3)(x+5)}$"}
+{"question": "Solve the following equation: $8 x^{6}+7 x^{3}-1=0$", "answer": "$\\frac{1}{2},-1, \\frac{-1 \\pm i \\sqrt{3}}{4}, \\frac{1 \\pm i \\sqrt{3}}{2}$"}
+{"question": "Simplify: $2 \\sqrt{2}-3 \\sqrt{18}-\\sqrt{2}$", "answer": "$-8 \\sqrt{2}$"}
+{"question": "Find the product: $3(2 x+3)(6 x+9)$", "answer": "$36 x^{2}+108 x+81$"}
+{"question": "Solve the equation: $3 n=24$", "answer": "8"}
+{"question": "Tim can finish a certain job in 10 hours. It takes his wife JoAnn only 8 hours to do the same job. If they work together, how long will it take them to complete the job?", "answer": "$4 \\frac{4}{9}$ days"}
+{"question": "Simplify: $\\frac{a+\\sqrt{\\mathrm{ab}}}{\\sqrt{a}+\\sqrt{b}}$", "answer": "$\\sqrt{a}$"}
+{"question": "A coin purse contains 18 coins in nickels and dimes. The coins have a total value of $\\$ 1.15$. Find the number of nickels and dimes in the coin purse.", "answer": "$13 \\mathrm{n}, 5 \\mathrm{~d}$"}
+{"question": "Simplify: $\\frac{x^{-3}+y^{-3}}{x^{-2}-x^{-1} y^{-1}+y^{-2}}$", "answer": "$\\frac{x+y}{x y}$"}
+{"question": "Solve: $\\frac{-9 \\cdot 2-(3-6)}{1-(-2+1)-(-3)}$", "answer": "-3"}
+{"question": "Solve: $\\sqrt{6 x-5}-x=0$", "answer": "1,5"}
+{"question": "Multiply and simplify: $5 \\sqrt{15}(3 \\sqrt{3}+2)$", "answer": "$45 \\sqrt{5}+10 \\sqrt{15}$"}
+{"question": "Find a quadratic equation with the solutions $-4$ and 11.", "answer": "$x^{2}-7 x-44=0$"}
+{"question": "Simplify: $\\sqrt{100 n^{3}}$", "answer": "$10 n \\sqrt{n}$"}
+{"question": "Simplify and express with positive exponents: $\\frac{a^{\\frac{3}{4}} b^{-1} \\cdot b^{\\frac{7}{4}}}{3 b^{-1}}$", "answer": "$\\frac{b^{\\frac{7}{4}} a^{\\frac{3}{4}}}{3}$"}
+{"question": "Find a quadratic equation with the solutions $-2$ and $-5$.", "answer": "$x^{2}+7 x+10=0$"}
+{"question": "Find the product: $6(p-7)$", "answer": "$6 p-42$"}
+{"question": "Solve the equation: $-4-b=8$", "answer": "-12"}
+{"question": "Find quotient: $\\frac{30}{6}$", "answer": "5"}
+{"question": "Solve the equation: $4 r=-28$", "answer": "-7"}
+{"question": "Simplify: $\\frac{q^{3} r^{2} \\cdot\\left(2 p^{2} q^{2} r^{3}\\right)^{2}}{2 p^{3}}$", "answer": "$2 q^{7} r^{8} p$"}
+{"question": "Solve the following systems of equation: \n$x y=45$ \n$(x+2)(y+1)=70$", "answer": "$(5,9),(18,2.5)$"}
+{"question": "Simplify: $3 \\sqrt{18}-\\sqrt{2}-3 \\sqrt{2}$", "answer": "$5 \\sqrt{2}$"}
+{"question": "The sum of the ages of two children is 16 years. Four years ago, the age of the older child was three times the age of the younger child. Find the present age of each child.", "answer": "10,6"}
+{"question": "Solve the absolute value equation: $|b|=1$", "answer": "$1,-1$"}
+{"question": "Divide: $\\frac{x^{3}-16 x^{2}+71 x-56}{x-8}$", "answer": "$x^{2}-8 x+7$"}
+{"question": "Simplify. Your answer should contain only positive expontents: $\\frac{u^{2} v^{-1}}{2 u^{0} v^{4} \\cdot 2 u v}$", "answer": "$\\frac{u}{4 v^{6}}$"}
+{"question": "Simplify: $\\frac{2 x^{7} y^{5}}{3 x^{3} y \\cdot 4 x^{2} y^{3}}$", "answer": "$\\frac{x^{2} y}{6}$"}
+{"question": "Solve the following equation: $8 x^{6}-9 x^{3}+1=0$", "answer": "$1, \\frac{1}{2}, \\frac{-1 \\pm i \\sqrt{3}}{4}, \\frac{-1 \\pm i \\sqrt{3}}{2}$"}
+{"question": "Simplify: $\\sqrt{320 x^{4} y^{4}}$", "answer": "$8 x^{2} y^{2} \\sqrt{5}$"}
+{"question": "Combine the following radicals: $\\sqrt{a} \\sqrt[4]{a^{3}}$", "answer": "$a \\sqrt[4]{a}$"}
+{"question": "Divide: $\\frac{r^{3}-r^{2}-16 r+8}{r-4}$", "answer": "$r^{2}+3 r-4-\\frac{8}{r-4}$"}
+{"question": "Find the product: $(4 x+8)\\left(4 x^{2}+3 x+5\\right)$", "answer": "$16 x^{3}+44 x^{2}+44 x+40$"}
+{"question": "Solve the absolute value equation: $|9+7 x|=30$", "answer": "$3,-\\frac{39}{7}$"}
+{"question": "Solve: $(x+2)^{5}=-243$", "answer": "-5"}
+{"question": "Evaluate the expression: $(-6)+3$", "answer": "-3"}
+{"question": "Multiply and simplify: $-5 \\sqrt{15}(3 \\sqrt{3}+2)$", "answer": "$-45 \\sqrt{5}-10 \\sqrt{15}$"}
+{"question": "Given $f(n)=-2|-n-2|+1$, find $f(-6)$", "answer": "-7"}
+{"question": "Simplify: $\\left(\\frac{2 y^{17}}{\\left(2 x^{2} y^{4}\\right)^{4}}\\right)^{3}$", "answer": "$\\frac{y^{3}}{512 x^{24}}$"}
+{"question": "Find product: $(10)(-8)$", "answer": "-80"}
+{"question": "Find the product: $(6 a+4)(a-8)$", "answer": "$6 a^{2}-44 a-32$"}
+{"question": "Simplify and leave your answer as an improper fraction: $\\frac{48}{18}$", "answer": "$\\frac{8}{3}$"}
+{"question": "Simplify: $\\frac{4+2 \\sqrt{3}}{5 \\sqrt{4}}$", "answer": "$\\frac{2+\\sqrt{3}}{5}$"}
+{"question": "Let the first angle of a triangle be $x$ degrees. Find the measures of the second and third angles.", "answer": "$25,100,55$"}
+{"question": "Simplify. Your answer should contain only positive expontents: $\\frac{2 m p n^{-3}}{\\left(m^{0} n^{-4} p^{2}\\right)^{3} \\cdot 2 n^{2} p^{0}}$", "answer": "$\\frac{m n^{7}}{p^{5}}$"}
+{"question": "Solve the equation: $102=-7 r+4$", "answer": "-14"}
+{"question": "How much alcohol must be added to 24 gallons of a $14 \\%$ solution of alcohol in order to produce a $20 \\%$ solution?", "answer": "1,8"}
+{"question": "Solve the absolute value equation: $8|x+7|-3=5$", "answer": "$-6,-8$"}
+{"question": "The time required to drive a fixed distance varies inversely as the speed. It takes $5 \\mathrm{hr}$ at a speed of $80 \\mathrm{~km} / \\mathrm{h}$ to drive a fixed distance. How long will it take to drive the same distance at a speed of $70 \\mathrm{~km} / \\mathrm{h}$ ?", "answer": "$5.7 \\mathrm{hr}$"}
+{"question": "Find the inverse of the function: $f(x)=-\\frac{3 x}{4}$", "answer": "$f^{-1}(x)=-\\frac{4 x}{3}$"}
+{"question": "Solve: $7 n^{2}-n+7=7 n+6 n^{2}$", "answer": "7,1"}
+{"question": "Divide: $\\frac{2 x^{3}+12 x^{2}+4 x-37}{2 x+6}$", "answer": "$x^{2}+3 x-7+\\frac{5}{2 x+6}$"}
+{"question": "Solve the equation: $32^{2 p-2} \\cdot 8^{p}=\\left(\\frac{1}{2}\\right)^{2 p}$", "answer": "$\\frac{2}{3}$"}
+{"question": "Solve the equation: $180=12 x$", "answer": "15"}
+{"question": "Simplify: $\\frac{4+2 \\sqrt{3}}{\\sqrt{9}}$", "answer": "$\\frac{4+2 \\sqrt{3}}{3}$"}
+{"question": "A family drove to a resort at an average speed of $25 \\mathrm{mph}$ and later returned over the same road at an average speed of $40 \\mathrm{mph}$. Find the distance to the resort if the total driving time was $13 \\mathrm{~h}$.", "answer": "200"}
+{"question": "A cistern can be filled by one pipe in 20 minutes and by another in 30 minutes. How long will it take both pipes together to fill the tank?", "answer": "$12 \\mathrm{~min}$"}
+{"question": "Evaluate $\\frac{x-3}{x^{2}-4 x+3}$ when $x=-4$", "answer": "$-\\frac{1}{5}$"}
+{"question": "Find the slope of the line through the points $(-15,10)$ and $(16,-7)$.", "answer": "$-\\frac{17}{31}$"}
+{"question": "Solve: $\\frac{\\frac{15}{x^{2}}-\\frac{2}{x}-1}{\\frac{4}{x^{2}}-\\frac{5}{x}+4}$", "answer": "$-\\frac{(x-3)(x+5)}{4 x^{2}-5 x+4}$"}
+{"question": "Solve the following system of equations by elimination:\n$5 x-5 y=-15$\n$5 x-5 y=-15$", "answer": "Infinite number of solutions"}
+{"question": "Solve: $-8(n-7)+3(3 n-3)=41$", "answer": "-6"}
+{"question": "Solve: $4+3 x=-12 x+4$", "answer": "0"}
+{"question": "Solve the compound inequality and give interval notation: $-11 \\leqslant n-9 \\leqslant-5$", "answer": "$-2 \\leqslant n \\leqslant 4:[-2,4]$"}
+{"question": "Simplify: $\\frac{1}{1+\\sqrt{2}}$", "answer": "$\\sqrt{2}-1$"}
+{"question": "Simplify: $-10(x-2)-3$", "answer": "$-10 x+17$"}
+{"question": "Solve the equation: $20 b=-200$", "answer": "-10"}
+{"question": "Solve: $-2+2(8 x-7)=-16$", "answer": "0"}
+{"question": "Solve: $-7(1+b)=-5-5 b$", "answer": "-1"}
+{"question": "Solve the equation: $3 x-3=-3$", "answer": "0"}
+{"question": "Find product: $\\left(-\\frac{17}{9}\\right)\\left(-\\frac{3}{5}\\right)$", "answer": "$-\\frac{19}{20}$"}
+{"question": "Find the square: $(4 m-n)^{2}$", "answer": "$16 m^{2}-8 m n+n^{2}$"}
+{"question": "Simplify: $-\\sqrt[4]{112}$", "answer": "$-2 \\sqrt[4]{7}$"}
+{"question": "Multiply and simplify: $5 \\sqrt{10}(5 n+\\sqrt{2})$", "answer": "$25 n \\sqrt{10}+10 \\sqrt{5}$"}
+{"question": "The length of a room is $8 \\mathrm{ft}$ greater than its width. If each dimension is increased by $2 \\mathrm{ft}$, the area will be increased by $60 \\mathrm{sq}$. ft. Find the dimensions of the room.", "answer": "$10 \\mathrm{ft} x 18 \\mathrm{ft}$"}
+{"question": "Solve the equation for $x$: $\\frac{x^{2}+6}{x-1}+\\frac{x-2}{x-1}=2 x$", "answer": "$-1,4$"}
+{"question": "Simplify: $\\left(4-2 k^{2}\\right)+\\left(8-2 k^{2}\\right)$", "answer": "$-4 k^{2}+12$"}
+{"question": "Simplify: $\\frac{21 k}{24 k^{2}}$", "answer": "$\\frac{7}{8 k}$"}
+{"question": "Evaluate $\\left(2 n^{2}+7 n^{4}-2\\right)+\\left(2+2 n^{3}+4 n^{2}+2 n^{4}\\right)$.", "answer": "$9 n^{4}+2 n^{3}+6 n^{2}$"}
+{"question": "Simplify the expression: $\\frac{p-8}{p^{2}-12 p+32} \\div \\frac{1}{p-10}$", "answer": "$\\frac{p-10}{p-4}$"}
+{"question": "Find a quadratic equation with the solutions $\\frac{2 \\pm 5 i}{3}$.", "answer": "$9 x^{2}-12 x+29=0$"}
+{"question": "Solve the equation: $4^{3 r} \\cdot 4^{-3 r}=\\frac{1}{64}$", "answer": "No solution"}
+{"question": "Solve the equation: $\\log _{11}(x+5)=-1$", "answer": "$-\\frac{54}{11}$"}
+{"question": "Given $k(n)=|n-1|$, find $k(3)$", "answer": "2"}
+{"question": "Evaluate the expression: $5-7$", "answer": "-2"}
+{"question": "Solve the absolute value equation: $|5 x+3|=|2 x-1|$", "answer": "$-\\frac{4}{3},-\\frac{2}{7}$"}
+{"question": "Solve the equation: $4^{-3 v}=64$", "answer": "-1"}
+{"question": "Solve: $-4(1+a)=2 a-8(5+3 a)$", "answer": "-2"}
+{"question": "How many kilograms of hard candy that cost $\\$ 7.50$ per kilogram must be mixed with $24 \\mathrm{~kg}$ of jelly beans that cost $\\$ 3.25$ per kilogram to make a mixture that sells for $\\$ 4.50$ per kilogram?", "answer": "10"}
+{"question": "Divide: $\\frac{4 x^{2}-33 x+28}{4 x-5}$", "answer": "$x-7-\\frac{7}{4 x-5}$"}
+{"question": "Solve the equation: $\\frac{635}{72}=-\\frac{5}{2}\\left(-\\frac{11}{4}+x\\right)$", "answer": "$-\\frac{7}{9}$"}
+{"question": "A $\\$ 10,000$ Treasury Bill earned $16 \\%$ compounded monthly. If the bill matured in 2 years, what was it worth at maturity?", "answer": "13742.19"}
+{"question": "Multiply and simplify: $\\sqrt[3]{4 x^{3}} \\cdot \\sqrt[3]{2 x^{4}}$", "answer": "$2 x^{2} \\sqrt[3]{x}$"}
+{"question": "Simplify the expression: $\\frac{9}{b^{2}-b-12} \\div \\frac{b-5}{b^{2}-b-12}$", "answer": "$\\frac{9}{b-5}$"}
+{"question": "You are buying carpet to cover a room that measures $38 \\mathrm{ft}$ by $40 \\mathrm{ft}$. The carpet cost $\\$ 18$ per square yard. How much will the carpet cost?", "answer": "$\\$ 3040$"}
+{"question": "A number of men subscribed a certain amount to make up a deficit of $\\$ 100$ but 5 men failed to pay and thus increased the share of the others by $\\$ 1$ each. Find the amount that each man paid.", "answer": "$\\$ 4$"}
+{"question": "Solve the equation $3 \\mathrm{x}+2 \\mathrm{y}=7$ for $\\mathrm{y}$.", "answer": "$y=\\frac{7-3 x}{2}$"}
+{"question": "State the excluded values for $\\frac{r^{2}+3 r+2}{5 r+10}$", "answer": "-2"}
+{"question": "Solve the following equation: $3(y+1)^{2}-14(y+1)=5$", "answer": "$4,-\\frac{4}{3}$"}
+{"question": "Solve: $7-5+6$", "answer": "8"}
+{"question": "Evaluate the expression: $\\log _{4} 16$", "answer": "2"}
+{"question": "Find the product: $(b+4)(b-4)$", "answer": "$b^{2}-16$"}
+{"question": "Simplify: $\\frac{3}{4-3 \\sqrt{3}}$", "answer": "$\\frac{-12-9 \\sqrt{3}}{11}$"}
+{"question": "Evaluate the expression: $\\frac{3}{2}+\\frac{9}{7}$", "answer": "$\\frac{39}{14}$"}
+{"question": "Solve: $\\frac{-10-6}{(-2)^{2}}-5$", "answer": "-9"}
+{"question": "Solve: $\\frac{\\frac{a^{2}-b^{2}}{4 a^{2} b}}{\\frac{a+b}{16 \\mathrm{ab}^{2}}}$", "answer": "$\\frac{4 b(a-b)}{a}$"}
+{"question": "Solve: $\\sqrt{2-3 x}-\\sqrt{3 x+7}=3$", "answer": "$-\\frac{7}{3}$"}
+{"question": "The length of a rectangle is $15 \\mathrm{ft}$ greater than its width. If each dimension is decreased by $2 \\mathrm{ft}$, the area will be decreased by $106 \\mathrm{ft}^{2}$. Find the dimensions.", "answer": "$20 \\mathrm{ft} x 35 \\mathrm{ft}$"}
+{"question": "The age of the older of two boys is twice that of the younger; 5 years ago it was three times that of the younger. Find the age of each.", "answer": "10,20"}
+{"question": "Multiply and simplify: $\\sqrt{5 r^{3}} \\cdot-5 \\sqrt{10 r^{2}}$", "answer": "$-25 r^{2} \\sqrt{2 r}$"}
+{"question": "Solve: $\\frac{2^{3}+4}{-18-6+(-4)-[-5(-1)(-5)]}$", "answer": "-4"}
+{"question": "Find quotient: $\\frac{-13}{8} \\div \\frac{-15}{8}$", "answer": "$\\frac{13}{15}$"}
+{"question": "A local zoning ordinance says that a house's \"footprint\" (area of its ground floor) cannot occupy more than $\\frac{1}{4}$ of the lot it is built on. Suppose you own a $\\frac{1}{3}$ acre lot, what is the maximum allowed footprint for your house in square feet? in square inches? $\\left(1\\right.$ acre $\\left.=43560 \\mathrm{ft}^{2}\\right)$", "answer": "$3630 \\mathrm{ft}^{2}, 522,720 \\mathrm{in}^{2}$"}
+{"question": "Solve: $\\frac{\\frac{1}{a^{2}}-\\frac{1}{a}}{\\frac{1}{a^{2}}+\\frac{1}{a}}$", "answer": "$-\\frac{a-1}{a+1}$"}
+{"question": "Find a quadratic equation with the solutions $\\pm 5$.", "answer": "$x^{2}-25=0$"}
+{"question": "At a constant temperature, the volume of a gas varies inversely as the pres- sure. If the pressure of a certain gas is 40 newtons per square meter when the volume is 600 cubic meters what will the pressure be when the volume is reduced by 240 cubic meters?", "answer": "$100 \\mathrm{~N}$"}
+{"question": "Given the points $(x, 5)$ and $(8,0)$ and a slope of $-\\frac{5}{6}$, find the value of $x$.", "answer": "2"}
+{"question": "Find product: $(-4+5 i)(2-7 i)$", "answer": "$27+38 i$"}
+{"question": "Simplify: $\\sqrt{245}$", "answer": "$7 \\sqrt{5}$"}
+{"question": "Solve the equation: $\\frac{3}{2}\\left(v+\\frac{3}{2}\\right)=-\\frac{7}{4} v-\\frac{19}{6}$", "answer": "$-\\frac{5}{3}$"}
+{"question": "It takes Sally $10 \\frac{1}{2}$ minutes longer than Patricia to clean up their dorm room. If they work together, they can clean it in 5 minutes. How long will it take each of them if they work alone?", "answer": "$\\mathrm{P}=7, \\mathrm{~S}=17 \\frac{1}{2}$"}
+{"question": "Write the number in scientific notation: 0.000744", "answer": "$7.44 \\times 10^{-4}$"}
+{"question": "The length of a rectangular lot is 4 rods greater than its width, and its area is 60 square rods. Find the dimensions of the lot.", "answer": "$6 \\times 10$"}
+{"question": "Solve the equation $a b=c$ for $b$.", "answer": "$b=\\frac{c}{a}$"}
+{"question": "State if the given functions are inverses:\n$g(x)=\\frac{4-x}{x}$\n$f(x)=\\frac{4}{x}$", "answer": "No"}
+{"question": "Solve: $\\frac{x-4+\\frac{9}{2 x+3}}{x+3-\\frac{5}{2 x+3}}$", "answer": "$\\frac{x-3}{x+4}$"}
+{"question": "Solve: $\\frac{\\frac{-5}{b-5}-3}{\\frac{10}{b-5}+6}$", "answer": "$-\\frac{1}{2}$"}
+{"question": "Solve: $66=6(6+5 x)$", "answer": "1"}
+{"question": "Find product: $(1+5 i)(2+i)$", "answer": "$-3+11 i$"}
+{"question": "Find the product: $(5 n-8)(5 n+8)$", "answer": "$25 n^{2}-64$"}
+{"question": "Evaluate the expression: $4-(-1)$", "answer": "5"}
+{"question": "Solve: $[6 \\cdot 2+2-(-6)]\\left(-5+\\left|\\frac{-18}{6}\\right|\\right)$", "answer": "-40"}
+{"question": "Evaluate the expression: $\\frac{3}{7}-\\frac{1}{7}$", "answer": "$\\frac{2}{7}$"}
+{"question": "Evaluate the expression: $i^{68}$", "answer": "1"}
+{"question": "A chair lift at the Divide ski resort in Cold Springs, WY is 4806 feet long and takes 9 minutes. What is the average speed in miles per hour? How many feet per second does the lift travel?", "answer": "$6.608 \\mathrm{mi} / \\mathrm{hr}$"}
+{"question": "Build up each fraction by finding the Least Common Denominator: $\\frac{5 x+1}{x^{2}-3 x-10}, \\frac{4}{x-5}$", "answer": "$\\frac{5 x+1}{(x-5)(x+2)}, \\frac{4 x+8}{(x-5)(x+2)}$"}
+{"question": "Add or subtract the rational expressions and simplify: $\\frac{x}{x^{2}+5 x+6}-\\frac{2}{x^{2}+3 x+2}$", "answer": "$\\frac{x-3}{(x+3)(x+1)}$"}
+{"question": "Solve the equation: $\\log _{5}(-10 x+4)=4$", "answer": "$-\\frac{621}{10}$"}
+{"question": "Simplify: $6 \\sqrt[3]{-54 m^{8} n^{3} p^{7}}$", "answer": "$-18 m^{2} n p^{2} \\sqrt[3]{2 m^{2} p}$"}
+{"question": "Add or subtract the rational expressions and simplify: $\\frac{x-1}{x^{2}+3 x+2}+\\frac{x+5}{x^{2}+4 x+3}$", "answer": "$\\frac{2 x+7}{x^{2}+5 x+6}$"}
+{"question": "Solve the equation: $4^{3 k-3} \\cdot 4^{2-2 k}=16^{-k}$", "answer": "$\\frac{1}{3}$"}
+{"question": "Simplify: $\\frac{\\sqrt{8 n^{2}}}{\\sqrt{10 n}}$", "answer": "$\\frac{2 \\sqrt{5 n}}{5}$"}
+{"question": "Simplify: $(5-4 i)+(8-4 i)$", "answer": "$13-8 i$"}
+{"question": "Solve the equation for $x$: $\\frac{x+2}{3 x-1}-\\frac{1}{x}=\\frac{3 x-3}{3 x^{2}-x}$", "answer": "2"}
+{"question": "Divide: $\\frac{9 p^{3}+45 p^{2}+27 p-5}{9 p+9}$", "answer": "$p^{2}+4 p-1+\\frac{4}{9 p+9}$"}
+{"question": "Solve: $\\frac{\\frac{x-1}{x+1}-\\frac{x+1}{x-1}}{\\frac{x-1}{x+1}+\\frac{x+1}{x-1}}$", "answer": "$-\\frac{2 x}{x^{2}+1}$"}
+{"question": "Multiply and simplify: $3 \\sqrt[3]{4 a^{4}} \\cdot \\sqrt[3]{10 a^{3}}$", "answer": "$6 a^{2} \\sqrt[3]{5 a}$"}
+{"question": "Solve: $10 v^{2}-15 v=27+4 v^{2}-6 v$", "answer": "$3,-\\frac{3}{2}$"}
+{"question": "Combine Like Terms: $k-2+7$", "answer": "$k+5$"}
+{"question": "Write the number in standard notation: $2 \\times 10^{0}$", "answer": "2"}
+{"question": "Given the points $(-8, y)$ and $(-1,1)$ and a slope of $\\frac{6}{7}$, find the value of $y$.", "answer": "-5"}
+{"question": "Chelsea's age is double Daniel's age. Eight years ago the sum of their ages was 32 . How old are they now?", "answer": "16,32"}
+{"question": "Find three consecutive odd integers such that the sum of the first, twice the second, and three times the third is 70.", "answer": "$9,11,13$"}
+{"question": "Solve the equation for $x$: $\\frac{x-2}{x+3}-\\frac{1}{x-2}=\\frac{1}{x^{2}+x-6}$", "answer": "0,5"}
+{"question": "A is 60 miles from B. An automobile at A starts for B at the rate of 20 miles an hour at the same time that an automobile at B starts for A at the rate of 25 miles an hour. How long will it be before the automobiles meet?", "answer": "$1 \\frac{1}{3}$"}
+{"question": "Solve: $-4 n+11=2(1-8 n)+3 n$", "answer": "-1"}
+{"question": "Combine the following radicals: $\\sqrt{a b} \\sqrt[5]{2 a^{2} b^{2}}$", "answer": "$\\sqrt[10]{4 a^{9} b^{9}}$"}
+{"question": "Simplify and leave your answer as an improper fraction: $\\frac{42}{12}$", "answer": "$\\frac{7}{2}$"}
+{"question": "Find the slope of the line through the points $(7,-14)$ and $(-8,-9)$.", "answer": "$-\\frac{1}{3}$"}
+{"question": "Solve the equation: $27^{-2 n-1}=9$", "answer": "$-\\frac{5}{6}$"}
+{"question": "Simplify and write the answer in scientific notation: $\\frac{9.58 \\times 10^{-2}}{1.14 \\times 10^{-3}}$", "answer": "$8.404 \\times 10^{1}$"}
+{"question": "Find a quadratic equation with the solutions $\\pm \\frac{\\sqrt{3}}{4}$.", "answer": "$16 x^{2}-3=0$"}
+{"question": "The sum of the ages of two ships is 12 years. Two years ago, the age of the older ship was three times the age of the newer ship. Find the present age of each ship.", "answer": "8,4"}
+{"question": "Evaluate the expression: $\\frac{6+\\sqrt{-32}}{4}$", "answer": "$\\frac{3+2 i \\sqrt{2}}{2}$"}
+{"question": "Simplify: $\\sqrt[3]{-32 x^{4} y^{4}}$", "answer": "$-2 x y \\sqrt[3]{4 x y}$"}
+{"question": "Simplify. Your answer should contain only positive expontents: $\\frac{2 x^{-3} y^{2}}{3 x^{-3} y^{3} \\cdot 3 x^{0}}$", "answer": "$\\frac{2}{9 y}$"}
+{"question": "Solve the equation: $\\frac{3}{2}-\\frac{7}{4} v=-\\frac{9}{8}$", "answer": "$\\frac{3}{2}$"}
+{"question": "Simplify: $-4 \\sqrt[3]{56 x^{2} y^{8}}$", "answer": "$-8 y^{2} \\sqrt[3]{7 x^{2} y^{2}}$"}
+{"question": "Divide: $\\frac{24 b^{3}-38 b^{2}+29 b-60}{4 b-7}$", "answer": "$6 b^{2}+b+9+\\frac{3}{4 b-7}$"}
+{"question": "Simplify: $\\sqrt[6]{256 x^{6}}$", "answer": "$2 x \\sqrt[6]{4}$"}
+{"question": "Solve the following system of equations by elimination:\n$-7 x+y=-10$\n$-9 x-y=-22$", "answer": "$(2,4)$"}
+{"question": "Simplify. Your answer should contain only positive expontents: $\\frac{2 n m^{4}}{\\left(2 m^{2} n^{2}\\right)^{4}}$", "answer": "$\\frac{1}{8 m^{4} n^{7}}$"}
+{"question": "Evaluate the expression: $8-(-1)$", "answer": "9"}
+{"question": "Solve: $k^{2}-7 k+50=3$", "answer": "$\\frac{7+i \\sqrt{139}}{2}, \\frac{7-i \\sqrt{139}}{2}$"}
+{"question": "Solve the equation $\\mathrm{g}=\\frac{h}{i}$ for $\\mathrm{h}$.", "answer": "$\\mathrm{h}=\\mathrm{gi}$"}
+{"question": "Simplify: $\\sqrt{72}$", "answer": "$6 \\sqrt{2}$"}
+{"question": "Combine the following radicals: $\\sqrt[5]{a^{3} b} \\sqrt{a b}$", "answer": "$a \\sqrt[10]{a b^{7}}$"}
+{"question": "Solve the equation: $10=x-4$", "answer": "14"}
+{"question": "Evaluate $\\left(6 v+8 v^{3}\\right)+\\left(3+4 v^{3}-3 v\\right)$.", "answer": "$12 v^{3}+3 v+3$"}
+{"question": "Simplify: $-3 \\sqrt{6}-3 \\sqrt{6}-\\sqrt{3}+3 \\sqrt{6}$", "answer": "$-3 \\sqrt{6}-\\sqrt{3}$"}
+{"question": "Find the Least Common Denominator: $x^{2}-9, x^{2}-6 x+9$", "answer": "$(x-3)^{2}(x+3)$"}
+{"question": "Solve: $\\sqrt{2 x+3}-3=0$", "answer": "3"}
+{"question": "The sum of Jason and Mandy's age is 35. Ten years ago Jason was double Mandy's age. How old are they now?", "answer": "15,20"}
+{"question": "State the excluded values for $\\frac{n^{2}-2 n+1}{6 n+6}$", "answer": "$\\frac{(n-1)^{2}}{6(n+1)}$"}
+{"question": "Solve: $32=2-5(-4 n+6)$", "answer": "3"}
+{"question": "Solve the equation: $3^{2-x} \\cdot 3^{3 m}=1$", "answer": "-1"}
+{"question": "A third farmer has a field that is $500 \\mathrm{ft}$ by $550 \\mathrm{ft}$. He wants to increase his field by $20 \\%$. How wide a ring should he cultivate around the outside of his field?", "answer": "$25 \\mathrm{ft}$"}
+{"question": "A caterer made an ice cream punch by combining fruit juice that cost $\\$ 2.25$ per gallon with ice cream that costs $\\$ 3.25$ per gallon. How many gallons of each were used to make 100 gal of punch costing $\\$ 2.50$ per pound?", "answer": "75,25"}
+{"question": "Simplify: $\\left(u^{2} v^{2} \\cdot 2 u^{4}\\right)^{3}$", "answer": "$8 u^{18} v^{6}$"}
+{"question": "Solve the following systems of equation: \n$x y=48$ \n$(x-6)(y+3)=60$", "answer": "$(16,3),(-6,-8)$"}
+{"question": "Solve the following system of equations by elimination:\n$-7 x+10 y=13$\n$4 x+9 y=22$", "answer": "$(1,2)$"}
+{"question": "Solve: $4 x^{2}+4 x+25=0$", "answer": "$\\frac{-1+2 i \\sqrt{6}}{2}, \\frac{-1-2 i \\sqrt{6}}{2}$"}
+{"question": "Distribute: $8 n(n+9)$", "answer": "$8 n^{2}+72 n$"}
+{"question": "Solve: $-3 n-27=-27-3 n$", "answer": "All real numbers"}
+{"question": "A tank contains 8000 liters of a solution that is $40 \\%$ acid. How much water should be added to make a solution that is $30 \\%$ acid?", "answer": "2666.7"}
+{"question": "Simplify: $\\sqrt[3]{375}$", "answer": "$5 \\sqrt[3]{3}$"}
+{"question": "Solve the equation: $2 b+\\frac{9}{5}=-\\frac{11}{5}$", "answer": "-2"}
+{"question": "Solve the equation $S=L+2 B$ for $\\mathrm{L}$.", "answer": "$L=S-2 B$"}
+{"question": "Simplify and write the answer in scientific notation: $\\left(7.8 \\times 10^{-2}\\right)^{5}$", "answer": "$2.887 \\times 10^{-6}$"}
+{"question": "An investment portfolio earned $\\$ 2010$ in interest last year. If $\\$ 3000$ was invested at a certain rate of return and $\\$ 24000$ was invested in a fund with a rate that was $4 \\%$ lower, find the two rates of interest.", "answer": "$\\$ 3000 @ 11 \\%$; $\\$ 24000 @ 7 \\%$"}
+{"question": "Simplify: $\\frac{4-4 x^{-1}+x^{-2}}{4-x^{-2}}$", "answer": "$\\frac{2 x-1}{2 x+1}$"}
+{"question": "Find product: $(-7-4 i)(-8+6 i)$", "answer": "$80-10 i$"}
+{"question": "A picture 10 inches long by 8 inches wide has a frame whose area is one half the area of the picture. What are the outside dimensions of the frame?", "answer": "1 in"}
+{"question": "Solve the equation $3 x=\\frac{a}{b}$ for $x$.", "answer": "$x=\\frac{a}{3 b}$"}
+{"question": "Solve the equation: $-80=4 x-28$", "answer": "-13"}
+{"question": "Simplify: $-9-10(1+9 a)$", "answer": "$-19-90 a$"}
+{"question": "Evaluate the expression: $\\frac{12}{7}-\\frac{9}{7}$", "answer": "$\\frac{3}{7}$"}
+{"question": "Simplify: $\\frac{n-9}{9 n-81}$", "answer": "$\\frac{1}{9}$"}
+{"question": "Two drivers are testing the same model car at speeds that differ by $20 \\mathrm{~km} / \\mathrm{hr}$. The one driving at the slower rate drives 70 kilometers down a speedway and returns by the same route. The one driving at the faster rate drives 76 kilometers down the speedway and returns by the same route. Both drivers leave at the same time, and the faster car returns $\\frac{1}{2}$ hour earlier than the slower car. At what rates were the cars driven?", "answer": "56,76"}
+{"question": "Find the value that completes the square and then rewrite as a perfect square: $p^{2}-17 p+$", "answer": "$\\frac{289}{4} ;\\left(p-\\frac{17}{2}\\right)^{2}$"}
+{"question": "Solve: $-32-24 v=34-2 v$", "answer": "-3"}
+{"question": "Find product: $(-5 i)(8 i)$", "answer": "40"}
+{"question": "How many pounds of coffee that is $40 \\%$ java beans must be mixed with $80 \\mathrm{lb}$ of coffee that is $30 \\%$ java beans to make a coffee blend that is $32 \\%$ java beans?", "answer": "20"}
+{"question": "Simplify: $\\left(3^{3}\\right)^{4}$", "answer": "$3^{12}$"}
+{"question": "Solve the following system of equations by elimination:\n$-4 x-5 y=12$\n$-10 x+6 y=30$", "answer": "$(-3,0)$"}
+{"question": "Let the first angle of a triangle be $x$ degrees. Find the measures of the second and third angles.", "answer": "$36,36,108$"}
+{"question": "Simplify: $\\frac{5 \\sqrt[4]{5 r^{4}}}{\\sqrt[4]{8 r^{2}}}$", "answer": "$\\frac{5 \\sqrt[4]{10 r^{2}}}{2}$"}
+{"question": "Evaluate using the given values: $q-p-(q-1-3)$; $p=3, q=6$", "answer": "1"}
+{"question": "Solve the equation: $-a-\\frac{5}{4}\\left(-\\frac{8}{3} a+1\\right)=-\\frac{19}{4}$", "answer": "$-\\frac{3}{2}$"}
+{"question": "Simplify the following expression: $\\frac{\\sqrt[3]{x^{2}}}{\\sqrt[5]{x}}$", "answer": "$\\sqrt[15]{x^{7}}$"}
+{"question": "Solve the equation: $\\frac{p}{20}=-12$", "answer": "-240"}
+{"question": "Solve: $\\sqrt{x+2}-\\sqrt{x}=2$", "answer": "no solution"}
+{"question": "Evaluate the expression: $\\log _{125} 5$", "answer": "$\\frac{1}{3}$"}
+{"question": "Simplify and write the answer in scientific notation: $\\frac{5 \\times 10^{6}}{6.69 \\times 10^{2}}$", "answer": "$7.474 \\times 10^{3}$"}
+{"question": "Simplify: $-6 \\sqrt[4]{80 m^{4} p^{7} q^{4}}$", "answer": "$-12 m p q \\sqrt[4]{5 p^{3}}$"}
+{"question": "Simplify: $3 \\sqrt{6}+3 \\sqrt{5}+2 \\sqrt{5}$", "answer": "$3 \\sqrt{6}+5 \\sqrt{5}$"}
+{"question": "Simplify: $-3 \\sqrt[4]{4}+3 \\sqrt[4]{324}+2 \\sqrt[4]{64}$", "answer": "$10 \\sqrt[4]{4}$"}
+{"question": "Evaluate the expression: $\\frac{1}{3}+\\frac{5}{3}$", "answer": "2"}
+{"question": "Solve the following systems of equation: \n$x+y+z=6$\n$2 x-y-z=-3$\n$x-2 y+3 z=6$", "answer": "$(1,2,3)$"}
+{"question": "Simplify and write the answer in scientific notation: $\\frac{4.9 \\times 10^{1}}{2.7 \\times 10^{-3}}$", "answer": "$1.815 \\times 10^{4}$"}
+{"question": "How many grams of pure acid must be added to 40 grams of a $20 \\%$ acid solution to make a solution which is $36 \\%$ acid?", "answer": "10"}
+{"question": "Solve the following systems of equation: \n$m+6 n+3 p=8$\n$3 m+4 n=-3$\n$5 m+7 n=1$", "answer": "$(-25,18,-25)$"}
+{"question": "Find the slope of a line perpendicular to the given line: $3 x-y=-3$", "answer": "$-\\frac{1}{3}$"}
+{"question": "Simplify and express with positive exponents: $\\left(a^{\\frac{1}{2}} b^{\\frac{1}{2}}\\right)^{-1}$", "answer": "$\\frac{1}{a^{\\frac{1}{2}} b^{\\frac{1}{2}}}$"}
+{"question": "Simplify: $\\frac{2-\\sqrt{5}}{-3+\\sqrt{5}}$", "answer": "$\\frac{-1+\\sqrt{5}}{4}$"}
+{"question": "A drawer contains $15 \\mathbb{C}$ stamps and $18 \\mathbb{C}$ stamps. The number of $15 \\mathbb{C}$ stamps is four less than three times the number of $18 \\mathbb{C}$ stamps. The total value of all the stamps is $\\$ 1.29$. How many $15 \\mathbb{C}$ stamps are in the drawer?", "answer": "5 4.6"}
+{"question": "Simplify: $\\frac{4}{3+\\sqrt{5}}$", "answer": "$3-\\sqrt{5}$"}
+{"question": "A total of 26 bills are in a cash box. Some of the bills are one-dollar bills, and the rest are five-dollar bills. The total amount of cash in the box is $\\$ 550$. Find the number of each type of bill in the cash box.", "answer": "$20 \\$ 1,6 \\$ 5$"}
+{"question": "Solve: $3 x^{2}-11 x=-18$", "answer": "$\\frac{11+i \\sqrt{95}}{6}, \\frac{11-i \\sqrt{95}}{6}$"}
+{"question": "Solve the following equation: $\\left(x^{2}+x+3\\right)^{2}+15=8\\left(x^{2}+x+3\\right)$", "answer": "$0, \\pm 1,-2$"}
+{"question": "Solve the equation: $n+8=10$", "answer": "2"}
+{"question": "Given the points $(8, y)$ and $(-2,4)$ and a slope of $-\\frac{1}{5}$, find the value of $y$.", "answer": "2"}
+{"question": "Solve the compound inequality and give interval notation: $3 \\leqslant 9+x \\leqslant 7$", "answer": "$-6 \\leqslant x \\leqslant-2:[-6,-2]$"}
+{"question": "Solve the following equation: $z^{6}-216=19 z^{3}$", "answer": "$-2,3,1 \\pm i \\sqrt{3}, \\frac{-3 \\pm i \\sqrt{3}}{2}$"}
+{"question": "Simplify: $-3 \\sqrt[3]{192 a b^{2}}$", "answer": "$-12 \\sqrt[3]{3 a b^{2}}$"}
+{"question": "The perimeter of a college basketball court is $96$ meters and the length is $14$ meters more than the width. Find the dimensions of the basketball court.", "answer": "17,31"}
+{"question": "Find the inverse of the function: $h(x)=\\frac{4-\\sqrt[3]{4 x}}{2}$", "answer": "$h^{-1}(x)=\\frac{(-2 x+4)^{3}}{4}$"}
+{"question": "Divide: $\\frac{x^{3}-26 x-41}{x+4}$", "answer": "$x^{2}-4 x-10-\\frac{1}{x+4}$"}
+{"question": "Find the product: $(r-7)\\left(6 r^{2}-r+5\\right)$", "answer": "$6 r^{3}-43 r^{2}+12 r-35$"}
+{"question": "Evaluate the expression: $47 \\frac{3+\\sqrt{-27}}{6}$", "answer": "$\\frac{1+i \\sqrt{3}}{2}$"}
+{"question": "Solve the following systems of equation: \n$x+y+z=2$\n$6 x-4 y+5 z=31$\n$5 x+2 y+2 z=13$", "answer": "$(3,-2,1)$"}
+{"question": "Solve the equation: $\\log _{4}(6 b+4)=0$", "answer": "$-\\frac{1}{2}$"}
+{"question": "Simplify and leave your answer as an improper fraction: $\\frac{63}{18}$", "answer": "$\\frac{7}{2}$"}
+{"question": "A truck leaves a depot at 11 A.M. and travels at a speed of $45 \\mathrm{mph}$. At noon, a van leaves the same place and travels the same route at a speed of $65 \\mathrm{mph}$. At what time does the van overtake the truck?", "answer": "$2: 15$ PM"}
+{"question": "Simplify: $\\frac{4 \\sqrt{2}+3}{3 \\sqrt{2}+\\sqrt{3}}$", "answer": "$\\frac{24-4 \\sqrt{6}+9 \\sqrt{2}-3 \\sqrt{3}}{15}$"}
+{"question": "Simplify and express with positive exponents: $\\frac{\\left(x^{\\frac{1}{2}} y^{0}\\right)^{-\\frac{4}{3}}}{y^{4} \\cdot x^{-2} y^{-\\frac{2}{3}}}$", "answer": "$\\frac{x^{\\frac{4}{3}}}{y^{\\frac{10}{3}}}$"}
+{"question": "Simplify and leave your answer as an improper fraction: $\\frac{72}{60}$", "answer": "$\\frac{6}{5}$"}
+{"question": "The largest single rough diamond ever found, the Cullinan diamond, weighed 3106 carats; how much does the diamond weigh in miligrams? in pounds?", "answer": "$621,200 \\mathrm{mg} ; 1.42 \\mathrm{lb}$"}
+{"question": "Solve the equation: $6^{2-2 x}=6^{2}$", "answer": "0"}
+{"question": "Simplify: $\\sqrt{512 a^{4} b^{2}}$", "answer": "$16 a^{2} b \\sqrt{2}$"}
+{"question": "Find product: $(-i)(7 i)(4-3 i)$", "answer": "$28-21 i$"}
+{"question": "Distribute: $-6(1+6 x)$", "answer": "$-6-36 x$"}
+{"question": "Solve the equation: $216^{-3 v}=36^{3 v}$", "answer": "0"}
+{"question": "Simplify: $3 \\sqrt[3]{135 x y^{3}}$", "answer": "$9 y \\sqrt[3]{5 x}$"}
+{"question": "Simplify the expression $x^{4}-5 x^{3}-x+13$ when $x=5$.", "answer": "8"}
+{"question": "Solve the equation: $\\log _{8}(3 k-1)=1$", "answer": "3"}
+{"question": "Add or subtract the rational expressions and simplify: $\\frac{2 x}{x^{2}-1}-\\frac{4}{x^{2}+2 x-3}$", "answer": "$\\frac{2 x+4}{x^{2}+4 x+3}$"}
+{"question": "Solve: $8 r^{2}+10 r=-55$", "answer": "$\\frac{-5+i \\sqrt{415}}{8}, \\frac{-5-i \\sqrt{415}}{8}$"}
+{"question": "Solve the equation: $-\\frac{16}{9}=-\\frac{4}{3}\\left(\\frac{5}{3}+n\\right)$", "answer": "$-\\frac{1}{3}$"}
+{"question": "Solve the following systems of equation: \n$3 x+y-z=10$\n$8 x-y-6 z=-3$\n$5 x-2 y-5 z=1$", "answer": "no solution"}
+{"question": "A boy has $\\$ 2.25$ in nickels and dimes. If there are twice as many dimes as nickels, how many of each kind has he?", "answer": "9,18"}
+{"question": "Solve the proportion: $\\frac{8}{x}=\\frac{4}{8}$", "answer": "$x=16$"}
+{"question": "Solve: $\\sqrt{2 x+4}-\\sqrt{x+3}=1$", "answer": "6"}
+{"question": "Add or subtract the rational expressions and simplify: $\\frac{8}{x^{2}-4}-\\frac{3}{x+2}$", "answer": "$\\frac{14-3 x}{x^{2}-4}$"}
+{"question": "An automobile made a trip of 120 miles and then returned, the round trip occupying 7 hours. Returning, the rate was increased 10 miles an hour. Find the rate of each.", "answer": "$30 \\mathrm{mph}, 40 \\mathrm{mph}$"}
+{"question": "Convert $7 \\mathrm{mi}$ to yards.", "answer": "$12320 \\mathrm{yd}$"}
+{"question": "Divide: $\\frac{k^{3}-4 k^{2}-6 k+4}{k-1}$", "answer": "$k^{2}-3 k-9-\\frac{5}{k-1}$"}
+{"question": "Evaluate $\\left(8 n+n^{4}\\right)-\\left(3 n-4 n^{4}\\right)$.", "answer": "$5 n^{4}+5 n$"}
+{"question": "Evaluate $\\left(n-5 n^{4}+7\\right)+\\left(n^{2}-7 n^{4}-n\\right)$.", "answer": "$-12 n^{4}+n^{2}+7$"}
+{"question": "Find the Least Common Denominator: $x^{2}-3 x, x-3, x$", "answer": "$x(x-3)$"}
+{"question": "Simplify: $\\frac{4}{5 \\sqrt{3 x y^{4}}}$", "answer": "$\\frac{4 \\sqrt{3 x}}{16 x y^{2}}$"}
+{"question": "Find the slope of the line through the points $(8,11)$ and $(-3,-13)$.", "answer": "$\\frac{24}{11}$"}
+{"question": "Simplify the expression: $\\frac{x-10}{35 x+21} \\div \\frac{7}{35 x+21}$", "answer": "$\\frac{x-10}{7}$"}
+{"question": "Simplify: $\\sqrt{16 x^{3} y^{3}}$", "answer": "$4 x y \\sqrt{x y}$"}
+{"question": "Find the product: $(7 n-6)(n+7)$", "answer": "$7 n^{2}+43 n-42$"}
+{"question": "Simplify: $2 \\sqrt[3]{375 u^{2} v^{8}}$", "answer": "$10 v^{2} \\sqrt[3]{3 u^{2} v^{2}}$"}
+{"question": "Convert $7.50 \\mathrm{~T} / \\mathrm{yd}^{2}$ (tons per square yard) to pounds per square inch.", "answer": "$11.6 \\mathrm{lb} / \\mathrm{in}^{2}$"}
+{"question": "How many ounces of pure bran flakes must be added to 50 oz of cereal that is $40 \\%$ bran flakes to produce a mixture that is $50 \\%$ bran flakes?", "answer": "10"}
+{"question": "Solve the equation $\\mathrm{F}=\\mathrm{k}(R-L)$ for $\\mathrm{k}$.", "answer": "$k=\\frac{F}{R-L}$"}
+{"question": "Convert $4.5 \\mathrm{ft}^{2}$ to square yards.", "answer": "$0.5 \\mathrm{yd}^{2}$"}
+{"question": "Solve the compound inequality and give interval notation: $-16 \\leqslant 2 n-10 \\leqslant-22$", "answer": "No solution : $\\oslash$"}
+{"question": "Simplify: $\\sqrt[5]{224 p^{5}}$", "answer": "$2 p \\sqrt[5]{7}$"}
+{"question": "Simplify: $-\\frac{4}{4-4 \\sqrt{2}}$", "answer": "$1+\\sqrt{2}$"}
+{"question": "Solve the equation for $x$: $3 x-\\frac{1}{2}-\\frac{1}{x}=0$", "answer": "$-\\frac{1}{2}, \\frac{2}{3}$"}
+{"question": "Solve the following equation: $x^{6}-10 x^{3}+16=0$", "answer": "$2, \\sqrt[3]{2},-1 \\pm i \\sqrt{3}, \\frac{-\\sqrt[3]{2} \\pm i \\sqrt[6]{108}}{2}$"}
+{"question": "State the excluded values for $\\frac{2 n^{2}+19 n-10}{9 n+90}$", "answer": "$\\frac{2 n-1}{9}$"}
+{"question": "Solve the equation for $x$: $\\frac{x+1}{x-1}-\\frac{x-1}{x+1}=\\frac{5}{6}$", "answer": "$-\\frac{1}{5}, 5$"}
+{"question": "Find the square: $(4 x-5)^{2}$", "answer": "$16 x^{2}-40 x+25$"}
+{"question": "Solve the equation: $\\log _{5}(-3 m)=3$", "answer": "$-\\frac{125}{3}$"}
+{"question": "Simplify. Your answer should contain only positive expontents: $\\frac{2 b^{4} c^{-2} \\cdot\\left(2 b^{3} c^{2}\\right)^{-4}}{a^{-2} b^{4}}$", "answer": "$\\frac{a^{2}}{8 c^{10} b^{12}}$"}
+{"question": "Evaluate $\\left(8 x^{2}+2 x^{4}+7 x^{3}\\right)+\\left(7 x^{4}-7 x^{3}+2 x^{2}\\right)$.", "answer": "$9 x^{2}+10 x^{2}$"}
+{"question": "Find quotient: $-2 \\div \\frac{7}{4}$", "answer": "$-\\frac{8}{7}$"}
+{"question": "Solve the equation: $-37=8+3 x$", "answer": "-15"}
+{"question": "Solve the following equation: $(a+1)^{2}+2(a-1)=15$", "answer": "$2,-6$"}
+{"question": "Simplify: $-2 r(1+4 r)+8 r(-r+4)$", "answer": "$30 r-16 r^{2}$"}
+{"question": "Find a quadratic equation with the solutions $\\pm \\sqrt{7}$.", "answer": "$x^{2}-7=0$"}
+{"question": "Solve the proportion: $\\frac{6}{x}=\\frac{8}{2}$", "answer": "$x=\\frac{3}{2}$"}
+{"question": "Simplify and express with positive exponents: $\\frac{a^{2} b^{0}}{3 a^{4}}$", "answer": "$\\frac{1}{3 a^{2}}$"}
+{"question": "A bus traveling at a rate of $60 \\mathrm{mph}$ overtakes a car traveling at a rate of 45 mph. If the car had a $1 \\mathrm{~h}$ head start, how far from the starting point does the bus overtake the car?", "answer": "180"}
+{"question": "Solve the equation: $x + x + 2x + 4x = -104$", "answer": "-13"}
+{"question": "Distribute: $7 k(-k+6)$", "answer": "$-7 k^{2}+42 k$"}
+{"question": "Solve the equation: $\\frac{3}{2} n-\\frac{8}{3}=-\\frac{29}{12}$", "answer": "$\\frac{1}{6}$"}
+{"question": "Simplify. Your answer should contain only positive expontents: $\\frac{2 y^{2}}{\\left(x^{4} y^{0}\\right)^{-4}}$", "answer": "$2 x^{16} y^{2}$"}
+{"question": "Solve the equation: $2=-12+2 r$", "answer": "7"}
+{"question": "Solve the equation: $7x - 11 = 6x + 5$", "answer": "16"}
+{"question": "Solve each equation by completing the square: $6 r^{2}+12 r-24=-6$", "answer": "$1,-3$"}
+{"question": "Simplify. Your answer should contain only positive expontents: $\\frac{y\\left(2 x^{4} y^{2}\\right)^{2}}{2 x^{4} y^{0}}$", "answer": "$2 y^{5} x^{4}$"}
+{"question": "Simplify: $\\frac{4}{4 \\sqrt{3}-\\sqrt{5}}$", "answer": "$\\frac{16 \\sqrt{3}+4 \\sqrt{5}}{43}$"}
+{"question": "Evaluate using the given values: $x+6 z-4 y$; $x=6, y=4, z=4$", "answer": "14"}
+{"question": "Evaluate the expression: $i^{62}$", "answer": "-1"}
+{"question": "Simplify: $2 \\sqrt[4]{48}-3 \\sqrt[4]{405}-3 \\sqrt[4]{48}-\\sqrt[4]{162}$", "answer": "$-2 \\sqrt[4]{3}-9 \\sqrt[4]{5}-3 \\sqrt[4]{2}$"}
+{"question": "Divide: $\\frac{27 b^{2}+87 b+35}{3 b+8}$", "answer": "$9 b+5-\\frac{5}{3 b+8}$"}
+{"question": "Simplify: $\\sqrt[3]{750}$", "answer": "$5 \\sqrt[3]{6}$"}
+{"question": "The time required to empty a tank varies inversely as the rate of pumping. If a pump can empty a tank in $45 \\mathrm{~min}$ at the rate of $600 \\mathrm{~kL} / \\mathrm{min}$, how long will it take the pump to empty the same tank at the rate of $1000 \\mathrm{~kL} / \\mathrm{min}$ ?", "answer": "$27 \\mathrm{~min}$"}
+{"question": "Find product: $(6)(-1)$", "answer": "-6"}
+{"question": "Divide: $\\frac{12 x^{4}+24 x^{3}+3 x^{2}}{6 x}$", "answer": "$2 x^{3}+4 x^{2}+\\frac{x}{2}$"}
+{"question": "Multiply and simplify: $(\\sqrt{5}-5)(2 \\sqrt{5}-1)$", "answer": "$15-11 \\sqrt{5}$"}
+{"question": "Simplify and write the answer in scientific notation: $\\left(2 \\times 10^{-6}\\right)\\left(8.8 \\times 10^{-5}\\right)$", "answer": "$1.76 \\times 10^{-10}$"}
+{"question": "Simplify: $\\left(\\frac{2 m n^{4} \\cdot 2 m^{4} n^{4}}{m n^{4}}\\right)^{3}$", "answer": "$64 m^{12} n^{12}$"}
+{"question": "Simplify: $\\frac{20}{4 p+2}$", "answer": "$\\frac{10}{2 p+1}$"}
+{"question": "Solve the equation: $\\log _{2} x=-2$", "answer": "$\\frac{1}{4}$"}
+{"question": "Simplify the expression: $\\frac{9 x^{3}+54 x^{2}}{x^{2}+5 x-14} \\cdot \\frac{x^{2}+5 x-14}{10 x^{2}}$", "answer": "$\\frac{9(x+6)}{10}$"}
+{"question": "Evaluate: $100^{-\\frac{3}{2}}$", "answer": "$\\frac{1}{1000}$"}
+{"question": "Simplify: $\\frac{a b}{a \\sqrt{b}-b \\sqrt{a}}$", "answer": "$\\frac{a \\sqrt{b}+b \\sqrt{a}}{a-b}$"}
+{"question": "Find the product: $(4 m-8 n)(4 m+8 n)$", "answer": "$16 m^{2}-64 n^{2}$"}
+{"question": "Solve the following system of equations by elimination:\n$2 x-y=5$\n$5 x+2 y=-28$", "answer": "$(-2,-9)$"}
+{"question": "Evaluate the expression: $\\frac{4}{4+6 i}$", "answer": "$\\frac{4-6 i}{13}$"}
+{"question": "By going 15 miles per hour faster, a train would have required 1 hour less to travel 180 miles. How fast did it travel?", "answer": "$45 \\mathrm{mph}$"}
+{"question": "Simplify: $\\frac{x^{-2}-6 x^{-1}+9}{x^{2}-9}$", "answer": "$\\frac{(1-3 x)^{2}}{x^{2}(x+3)(x-3)}$"}
+{"question": "Find a quadratic equation with the solutions $\\pm \\frac{1}{5}$.", "answer": "$25 x^{2}-1=0$"}
+{"question": "Simplify: $\\frac{x^{-2}-y^{-2}}{x^{-1}+y^{-1}}$", "answer": "$\\frac{y-x}{x y}$"}
+{"question": "Solve the following equation: $a^{4}-50 a^{2}+49=0$", "answer": "$\\pm 1, \\pm 7$"}
+{"question": "Solve the proportion: $\\frac{x+1}{9}=\\frac{x+2}{2}$", "answer": "$v=-\\frac{16}{7}$"}
+{"question": "Find the slope of the line through the points $(12,-19)$ and $(6,14)$.", "answer": "$-\\frac{11}{2}$"}
+{"question": "A long-distance runner started on a course running at an average speed of 6 mph. One hour later, a second runner began the same course at an average speed of $8 \\mathrm{mph}$. How long after the second runner started will the second runner overtake the first runner?", "answer": "3"}
+{"question": "Solve: $-5(-4+2 v)=-50$", "answer": "7"}
+{"question": "Millicent earned $\\$ 435$ last year in interest. If $\\$ 3000$ was invested at a certain rate of return and $\\$ 4500$ was invested in a fund with a rate that was $2 \\%$ lower, find the two rates of interest.", "answer": "$\\$ 3000 @ 4.6 \\%$ $\\$ 4500$ @ 6.6\\%"}
+{"question": "The intensity of a light from a light bulb varies inversely as the square of the distance from the bulb. Suppose intensity is $90 \\mathrm{~W} / \\mathrm{m}^{2}$ (watts per square meter) when the distance is $5 \\mathrm{~m}$. How much further would it be to a point where the intesity is $40 \\mathrm{~W} / \\mathrm{m}^{2}$ ?", "answer": "$2.5 \\mathrm{~m}$"}
+{"question": "Solve each equation by completing the square: $6 x^{2}+12 x+63=0$", "answer": "$\\frac{-2+i \\sqrt{38}}{2}, \\frac{-2-i \\sqrt{38}}{2}$"}
+{"question": "A motorboat leaves a harbor and travels at an average speed of $8 \\mathrm{mph}$ toward a small island. Two hours later a cabin cruiser leaves the same harbor and travels at an average speed of $16 \\mathrm{mph}$ toward the same island. In how many hours after the cabin cruiser leaves will the cabin cruiser be alongside the motorboat?", "answer": "2"}
+{"question": "Simplify. Your answer should contain only positive expontents: $\\frac{2 x y^{2} \\cdot 4 x^{3} y^{-4}}{4 x^{-4} y^{-4} \\cdot 4 x}$", "answer": "$\\frac{x^{7} y^{2}}{2}$"}
+{"question": "Evaluate the expression: $i^{154}$", "answer": "-1"}
+{"question": "Solve the equation: $-9=\\frac{n}{12}$", "answer": "-108"}
+{"question": "Find the product: $5(x-4)(2 x-3)$", "answer": "$10 x^{2}-55 x+60$"}
+{"question": "Simplify: $8 \\sqrt[3]{-750 x y}$", "answer": "$-40 \\sqrt[3]{6 x y}$"}
+{"question": "Simplify: $-\\sqrt{32 x y^{2} z^{3}}$", "answer": "$-4 y z \\sqrt{2 x z}$"}
+{"question": "Simplify: $\\sqrt[3]{250}$", "answer": "$5 \\sqrt[3]{2}$"}
+{"question": "The drag force on a boat varies jointly as the wetted surface area and the square of the velocity of a boat. If a boat going $6.5 \\mathrm{mph}$ experiences a drag force of $86 \\mathrm{~N}$ when the wetted surface area is $41.2 \\mathrm{ft}^{2}$, how fast must a boat with $28.5 \\mathrm{ft}^{2}$ of wetted surface area go in order to experience a drag force of $94 \\mathrm{~N} ?$", "answer": "$8.2 \\mathrm{mph}$"}
+{"question": "Simplify: $(i)-(2+3 i)-6$", "answer": "$-8-2 i$"}
+{"question": "Solve the proportion: $\\frac{1}{n+3}=\\frac{n+2}{2}$", "answer": "$n=-4,-1$"}
+{"question": "Solve the following equation: $y^{4}-40 y^{2}+144=0$", "answer": "$\\pm 6, \\pm 2$"}
+{"question": "Solve the equation: $x + 3 = 19$", "answer": "11"}
+{"question": "Find product: $(8)\\left(\\frac{1}{2}\\right)$", "answer": "4"}
+{"question": "Given $h(t)=2|-3 t-1|+2$, find $h\\left(n^{2}\\right)$", "answer": "$2\\left|-3 n^{2}-1\\right|+2$"}
+{"question": "Solve the equation for $y$: $\\frac{7}{y-3}-\\frac{1}{2}=\\frac{y-2}{y-4}$", "answer": "$\\frac{16}{3}, 5$"}
+{"question": "Simplify and leave your answer as an improper fraction: $\\frac{80}{60}$", "answer": "$\\frac{4}{3}$"}
+{"question": "Simplify the expression: $\\frac{x^{2}-7 x+10}{x-2} \\cdot \\frac{x+10}{x^{2}-x-20}$", "answer": "$\\frac{x+10}{x+4}$"}
+{"question": "Evaluate the expression: $\\frac{-3+2 i}{-3 i}$", "answer": "$\\frac{-3 i-2}{3}$"}
+{"question": "Solve the following equation: $\\left(2 x^{2}+3 x\\right)^{2}=8\\left(2 x^{2}+3 x\\right)+9$", "answer": "$-3,-1, \\frac{3}{2},-\\frac{1}{2}$"}
+{"question": "Find the principal that will amount to $\\$ 3500$ if invested at $4 \\%$ interest compounded quarterly for 5 years.", "answer": "2868.41"}
+{"question": "Simplify: $\\frac{2 \\sqrt{4}}{3 \\sqrt{3}}$", "answer": "$\\frac{4 \\sqrt{3}}{9}$"}
+{"question": "Solve the following systems of equation: \n$x y=45$ \n$(x-5)(y+3)=160$", "answer": "$(45,1),\\left(-\\frac{5}{3},-27\\right)$"}
+{"question": "Simplify: $\\frac{32 x^{2}}{28 x^{2}+28 x}$", "answer": "$\\frac{8 x}{7(x+1)}$"}
+{"question": "Simplify: $6 \\sqrt[4]{648 x^{5} y^{7} z^{2}}$", "answer": "$18 x y \\sqrt[4]{8 x y^{3} z^{2}}$"}
+{"question": "A water tank is being filled by two inlet pipes. Pipe A can fill the tank in $4 \\frac{1}{2}$ hrs, while both pipes together can fill the tank in 2 hours. How long does it take to fill the tank using only pipe B?", "answer": "3.6 hours"}
+{"question": "Add or subtract the rational expressions and simplify: $\\frac{5 x}{x^{2}-x-6}-\\frac{18}{x^{2}-9}$", "answer": "$\\frac{5 x+12}{x^{2}+5 x+6}$"}
+{"question": "Simplify. Your answer should contain only positive expontents: $\\left(m^{0} n^{3} \\cdot 2 m^{-3} n^{-3}\\right)^{0}$", "answer": "1"}
+{"question": "Solve the equation $S=\\pi \\mathrm{rh}+\\pi r^{2}$ for $\\mathrm{h}$.", "answer": "$h=\\frac{s-\\pi r^{2}}{\\pi r}$"}
+{"question": "State the excluded values for $\\frac{27 p}{18 p^{2}-36 p}$", "answer": "0,2"}
+{"question": "How many ounces of dried apricots must be added to 18 oz of a snack mix that contains $20 \\%$ dried apricots to make a mixture that is $25 \\%$ dried apricots?", "answer": "1.2"}
+{"question": "Simplify: $(2 x y)^{4}$", "answer": "$16 x^{4} y^{4}$"}
+{"question": "The volume of a cone varies jointly as its height, and the square of its radius. If a cone with a height of 8 centimeters and a radius of 2 centimeters has a volume of $33.5 \\mathrm{~cm}^{3}$, what is the volume of a cone with a height of 6 centimeters and a radius of 4 centimeters?", "answer": "$\\mathrm{V}=100.5 \\mathrm{~cm}^{3}$"}
+{"question": "Find the value that completes the square and then rewrite as a perfect square: $y^{2}-y+$", "answer": "$\\frac{1}{4} ;\\left(y-\\frac{1}{2}\\right)^{2}$"}
+{"question": "The area of a rectangle is $48 \\mathrm{ft}^{2}$ and its perimeter is $32 \\mathrm{ft}$. Find its length and width.", "answer": "$4 \\mathrm{ft} \\times 12 \\mathrm{ft}$"}
+{"question": "Solve the equation for $x$: $\\frac{x-3}{x-6}+\\frac{x+5}{x+3}=\\frac{-2 x^{2}}{x^{2}-3 x-18}$", "answer": "$\\frac{13}{4}$"}
+{"question": "The manager of a garden shop mixes grass seed that is $60 \\%$ rye grass with 70 lb of grass seed that is $80 \\%$ rye grass to make a mixture that is $74 \\%$ rye grass. How much of the $60 \\%$ mixture is used?", "answer": "30"}
+{"question": "Find the square: $(8 x+5 y)^{2}$", "answer": "$64 x^{2}+80 x y+25 y^{2}$"}
+{"question": "A takes $7 \\frac{1}{2}$ minutes longer than $\\mathrm{B}$ to do a job. Working together, they can do the job in 9 minutes. How long does it take each working alone?", "answer": "15 and $22.5 \\mathrm{~min}$"}
+{"question": "Simplify and express with positive exponents: $\\frac{\\left(x^{-\\frac{4}{3}} y^{-\\frac{1}{3}} \\cdot y\\right)^{-1}}{x^{\\frac{1}{3}} y^{-2}}$", "answer": "$x y^{\\frac{4}{3}}$"}
+{"question": "Find the inverse of the function: $f(x)=(x-2)^{5}+3$", "answer": "$f^{-1}(x)=\\sqrt[5]{x-3}+2$"}
+{"question": "Simplify: $(3-3 i)+(-7-8 i)$", "answer": "$-4-11 i$"}
+{"question": "Simplify: $9(b+10)+5 b$", "answer": "$14 b+90$"}
+{"question": "Find product: $(8 i)(-2 i)(-2-8 i)$", "answer": "$-32-128 i$"}
+{"question": "Reduce the following radical: $\\sqrt[12]{64 x^{4} y^{6} z^{8}}$", "answer": "$\\sqrt[6]{8 x^{2} y^{3} z^{4}}$"}
+{"question": "Solve: $\\frac{1-\\frac{1}{x}-\\frac{6}{x^{2}}}{1-\\frac{4}{x}+\\frac{3}{x^{2}}}$", "answer": "$\\frac{x+2}{x-1}$"}
+{"question": "Find the slope of the line through the points $(-17,19)$ and $(10,-7)$.", "answer": "$-\\frac{26}{27}$"}
+{"question": "Given the points $(x,-7)$ and $(-9,-9)$ and a slope of $\\frac{2}{5}$, find the value of $x$.", "answer": "-4"}
+{"question": "Simplify: $(3 i)-(7 i)$", "answer": "$-4 i$"}
+{"question": "Find quotient: $\\frac{-8}{-2}$", "answer": "4"}
+{"question": "Solve each equation by completing the square: $6 n^{2}-12 n-14=4$", "answer": "$3,-1$"}
+{"question": "Solve: $\\sqrt{4 x+5}-\\sqrt{x+4}=2$", "answer": "5"}
+{"question": "Find quotient: $\\frac{30}{-10}$", "answer": "-3"}
+{"question": "A boy is 10 years older than his brother. In 4 years he will be twice as old as his brother. Find the present age of each.", "answer": "6,16"}
+{"question": "Add or subtract the rational expressions and simplify: $\\frac{2 x}{x^{2}-1}-\\frac{3}{x^{2}+5 x+4}$", "answer": "$\\frac{2 x+3}{(x-1)(x+4)}$"}
+{"question": "Marge is twice as old as Consuelo. The sum of their ages seven years ago was 13. How old are they now?", "answer": "9,18"}
+{"question": "Given the points $(-3,-2)$ and $(x, 6)$ and a slope of $-\\frac{8}{5}$, find the value of $x$.", "answer": "-8"}
+{"question": "Simplify: $\\frac{\\sqrt{2}}{3 \\sqrt{5}}$", "answer": "$\\frac{\\sqrt{10}}{15}$"}
+{"question": "Fred is 4 years older than Barney. Five years ago the sum of their ages was 48 . How old are they now?", "answer": "27,31"}
+{"question": "Find a quadratic equation with the solutions $\\pm \\sqrt{11}$.", "answer": "$x^{2}-11=0$"}
+{"question": "Simplify the expression $n^{3}-9 n^{2}+23 n-21$ when $n=5$.", "answer": "-6"}
+{"question": "Specify the domain of the function: $y(x)=\\frac{x}{x^{2}-25}$", "answer": "$x \\neq \\pm 5$"}
+{"question": "Find the product: $3(2 x+1)(4 x-5)$", "answer": "$24 x^{2}-18 x-15$"}
+{"question": "Solve the following systems of equation: \n$-2 w+2 x+2 y-2 z=-10$\n$w+x+y+z=-5$\n$3 w+2 x+2 y+4 z=-11$\n$w+3 x-2 y+2 z=-6$", "answer": "$(1,-3,-2,-1)$"}
+{"question": "Evaluate the expression: $3-(-1)$", "answer": "4"}
+{"question": "Simplify: $\\sqrt{192 n}$", "answer": "$8 \\sqrt{3 n}$"}
+{"question": "Simplify: $\\frac{b^{2}+14 b+48}{b^{2}+15 b+56}$", "answer": "$\\frac{b+6}{b+7}$"}
+{"question": "Find the value: $\\cos 71^{\\circ}$", "answer": "0.3256"}
+{"question": "Simplify: $(5 p-6)+(1-p)$", "answer": "$4 p-5$"}
