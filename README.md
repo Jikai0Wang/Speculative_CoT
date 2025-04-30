@@ -6,6 +6,7 @@ pip install -r requirements.txt
 ```
 
 ## Evaluate the Base Reasoning Models on Benchmarks
+**Supported datasets:** gsm8k, math, gaokao, college_math, olympiad.
 ```bash
 python base.py --bench-name gsm8k --main-model-path deepseek-ai/DeepSeek-R1-Distill-Qwen-32B --model-id Qwen-32B
 ```
