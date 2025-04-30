@@ -1,5 +1,7 @@
 # Efficient Reasoning for LLMs through Speculative Chain-of-Thought
 
+**Paper:** https://arxiv.org/abs/2504.19095
+
 ## Installation
 ```bash
 pip install -r requirements.txt
