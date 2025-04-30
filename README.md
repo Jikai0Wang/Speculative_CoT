@@ -15,7 +15,12 @@ python base.py --bench-name gsm8k --main-model-path deepseek-ai/DeepSeek-R1-Dist
 python speculative_cot.py --bench-name gsm8k
 ```
 
+
 ## To Train Your Own LoRA Weights for SCoT 
+
+We provide datasets for training the target model (32B) and the draft model (1.5B) in the ./train/data and ./train_draft/data directories respectively.
+We also provide the trained lora weights (32B and 1.5B).
+In case you need to make a custom dataset or retrain the lora module, please refer to the following script.
 
 ### Prepare data and train the target model
 ```bash
