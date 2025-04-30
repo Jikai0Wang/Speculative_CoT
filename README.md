@@ -1,4 +1,4 @@
-# <center>Efficient Reasoning for LLMs through Speculative Chain-of-Thought</center>
+# Efficient Reasoning for LLMs through Speculative Chain-of-Thought
 
 **Paper:** https://arxiv.org/abs/2504.19095
 
