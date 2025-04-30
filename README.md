@@ -37,3 +37,19 @@ cd train_draft
 python prepare_data.py
 python lora_train.py
 ```
+
+## Citation
+```
+@misc{wang2025efficientreasoningllmsspeculative,
+      title={Efficient Reasoning for LLMs through Speculative Chain-of-Thought}, 
+      author={Jikai Wang and Juntao Li and Lijun Wu and Min Zhang},
+      year={2025},
+      eprint={2504.19095},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.19095}, 
+}
+```
+
+## Acknowledgements
+Some of the code in this project was built with reference to [Mario](https://github.com/MARIO-Math-Reasoning/MARIO) and [Qwen2.5-Math](https://github.com/QwenLM/Qwen2.5-Math).
