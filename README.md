@@ -1,6 +1,10 @@
-# Efficient Reasoning for LLMs through Speculative Chain-of-Thought
+# <center>Efficient Reasoning for LLMs through Speculative Chain-of-Thought</center>
 
 **Paper:** https://arxiv.org/abs/2504.19095
+
+<p align="center">
+  <img src="scot.png" alt="scot" width="850">
+</p>
 
 ## Installation
 ```bash
