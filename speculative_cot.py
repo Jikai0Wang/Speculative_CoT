@@ -44,6 +44,11 @@ parser.add_argument(
     "--data-end",
     type=int,
 )
+parser.add_argument(
+    "--num-chains",
+    type=int,
+    default=5
+)
 
 
 args = parser.parse_args()
@@ -155,13 +160,19 @@ def pick_draft(model,tokenizer,prompt,chains):
 
     formatted_input=prompt+"<｜Assistant｜>"+"Number of the best reasoning path: "
 
-
     tokenizer.pad_token = tokenizer.eos_token
     input_dict = tokenizer(formatted_input, return_tensors="pt")
 
     with torch.no_grad():
         output = model(input_dict.input_ids).logits[:, -1, :]
     pred = int(tokenizer.decode(torch.argmax(output, dim=-1)))
+
+    if pred not in range(1,args.num_chains+2):
+        _,indices=torch.topk(output,k=5, dim=-1)
+        idx=1
+        while pred not in range(1,args.num_chains+2):
+            pred=int(tokenizer.decode(indices[0][idx]))
+            idx+=1
 
     return pred-1
 
@@ -246,7 +257,7 @@ for id,data in tqdm(enumerate(dataset)):
     if args.draft_output_file:
         draft=all_drafts[id]
     else:
-        chains = draft_cot(draft_model, draft_tokenizer, data["question"], num_chain=5, temperature=0.6, max_length=5000)
+        chains = draft_cot(draft_model, draft_tokenizer, data["question"], num_chain=args.num_chains, temperature=0.6, max_length=5000)
         draft = [draft_tokenizer.decode(chain, skip_special_tokens=True) for chain in chains]
 
     torch.cuda.synchronize()
